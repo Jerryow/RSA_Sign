@@ -1,0 +1,6 @@
+D:\self\jwt.sign\bank\Bank\Tool\bin\Debug\Tool.dll
+D:\self\jwt.sign\bank\Bank\Tool\bin\Debug\Tool.pdb
+D:\self\jwt.sign\bank\Bank\Tool\obj\Debug\Tool.csproj.CoreCompileInputs.cache
+D:\self\jwt.sign\bank\Bank\Tool\obj\Debug\Tool.dll
+D:\self\jwt.sign\bank\Bank\Tool\obj\Debug\Tool.pdb
+D:\self\jwt.sign\bank\Bank\Tool\obj\Debug\Tool.csprojAssemblyReference.cache

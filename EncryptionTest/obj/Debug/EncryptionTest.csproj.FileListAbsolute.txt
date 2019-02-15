@@ -1,0 +1,10 @@
+D:\self\jwt.sign\bank\Bank\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+D:\self\jwt.sign\bank\Bank\EncryptionTest\bin\Debug\EncryptionTest.exe
+D:\self\jwt.sign\bank\Bank\EncryptionTest\bin\Debug\EncryptionTest.pdb
+D:\self\jwt.sign\bank\Bank\EncryptionTest\bin\Debug\Tool.dll
+D:\self\jwt.sign\bank\Bank\EncryptionTest\bin\Debug\Tool.pdb
+D:\self\jwt.sign\bank\Bank\EncryptionTest\obj\Debug\EncryptionTest.csprojAssemblyReference.cache
+D:\self\jwt.sign\bank\Bank\EncryptionTest\obj\Debug\EncryptionTest.csproj.CoreCompileInputs.cache
+D:\self\jwt.sign\bank\Bank\EncryptionTest\obj\Debug\EncryptionTest.csproj.CopyComplete
+D:\self\jwt.sign\bank\Bank\EncryptionTest\obj\Debug\EncryptionTest.exe
+D:\self\jwt.sign\bank\Bank\EncryptionTest\obj\Debug\EncryptionTest.pdb
